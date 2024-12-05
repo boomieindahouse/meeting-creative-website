@@ -32,7 +32,8 @@ const Footer = () => {
           <div className="space-y-2">
             <p>Email: contact@meeting.co.th</p>
             <p>Phone: +66 XX XXX XXXX</p>
-            <p>Address: Korat, Thailand</p>
+            {/* <p>Address: Korat, Thailand</p> */}
+            <p>555/126 ศุภาลัย เบลล่า หมู่ 4 ต.จอหอ อ.เมือง จ.นครราชสีมา 30310</p>
           </div>
         </div>
       </div>
